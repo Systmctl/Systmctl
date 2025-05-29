@@ -22,3 +22,5 @@ Bem vindo(a) ao meu perfil, é nele onde falo sobre mim.
 ### Projetos em Andamento:
 - Blog de Writeups/Walkthroughs de CTF'S. (Em desenvolvimento)
 - Diário do Conhecimento. (Em Desenvolvimento)
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/Systmctl.png" alt="Your Image Badge" />
