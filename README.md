@@ -23,4 +23,4 @@ Bem vindo(a) ao meu perfil, é nele onde falo sobre mim.
 - Blog de Writeups/Walkthroughs de CTF'S. (Em desenvolvimento)
 - Diário do Conhecimento. (Em Desenvolvimento)
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/Systmctl.png" alt="Your Image Badge" />
+<img src="https://tryhackme-badges.s3.amazonaws.com/Systmctl.png" alt="Your Image Badge" /> - > _“O hacking não é destruir, é entender.”_
