@@ -1,16 +1,24 @@
-## Hi there 👋
+# Olá, eu sou o Systmctl.
 
-<!--
-**Systmctl/Systmctl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem vindo(a) ao meu perfil, é nele onde falo sobre mim.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Sobre Mim:
+- Estudo hacking, programação e cybersegurança.
+- Participo de CTF's (Capture The Flags).
+- Escrevo writeups e walkthroughs de CTF.
+- Gosto de História.
+
+---
+
+### Tecnologias e Conhecimentos:
+- Linguagens de Programação: C/C++ & Python.
+- Pentesting: Ferramentas no Geral.
+- Sistema Operacional: Atualmente windows, preferencia por Linux.
+
+---
+
+### Projetos em Andamento:
+- Blog de Writeups/Walkthroughs de CTF'S. (Em desenvolvimento)
+- Diário do Conhecimento. (Em Desenvolvimento)
