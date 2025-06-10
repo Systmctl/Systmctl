@@ -23,4 +23,4 @@ Bem vindo(a) ao meu perfil, é nele onde falo sobre mim.
 - Blog de Writeups/Walkthroughs de CTF'S. - https://systmctl.github.io/writeups.html
 - Diário do Conhecimento. (Em Desenvolvimento)
 
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4781850" style='border:none;'></iframe>
+<img src="https://tryhackme-badges.s3.amazonaws.com/Systmctl.png" alt="Your Image Badge" />
